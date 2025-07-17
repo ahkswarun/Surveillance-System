@@ -1,0 +1,1 @@
+Designed and implemented a real-time AI system to detect and report suspicious activities. Utilized machine learning to analyze video feeds and identify anomalies. Employed IoT for scalable deployment in diverse environments, enhancing security through selective access control and reducing reliance on human monitoring.
